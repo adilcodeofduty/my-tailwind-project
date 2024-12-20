@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'FavoritC';
+    src: url('/fonts/FavoritC.woff2') format('woff2'),
+         url('/fonts/FavoritC.woff') format('woff'),
+         url('/fonts/FavoritC-Bold.woff') format('woff2');
+    font-weight: 400; /* Adjust based on the font weight */
+    font-style: normal; /* Adjust based on the font style */
+  }
